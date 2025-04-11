@@ -35,7 +35,9 @@
 
 ## 🌐 Live Demo
 
-👉 [Click here to try TaskFlow](https://task-flow-task-manager-mwbp.vercel.app/)
+Check out the live version of **TaskFlow** in action:
 
+- 👉 https://task-flow-task-manager-mwbp.vercel.app/
+    
 
 ---
