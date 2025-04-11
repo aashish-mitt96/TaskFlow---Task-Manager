@@ -11,7 +11,7 @@ dotenv.config();
 const app = express();
 
 app.use(cors({
-  origin: ['https://clickresume.vercel.app', 'http://localhost:5173'],
+  origin: ['https://clickresume.vercel.app','https://task-flow-task-manager-mwbp.vercel.app/', 'http://localhost:5173'],
   methods: ["POST", "GET", "OPTIONS"],
   credentials: true,
   allowedHeaders: ["Content-Type", "Authorization", "token"],
