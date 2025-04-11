@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://task-flow-task-manager-eight.vercel.app/api",
 });
 
 axiosInstance.interceptors.request.use((config) => {
